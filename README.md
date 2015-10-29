@@ -20,6 +20,8 @@ We also have published another game on play store:
 
 https://play.google.com/store/apps/details?id=com.mtr.cc.android (This game is not open source).
 
+The main code is in BeerDrop folder. The other folders are just platform starter folders.
+
 
 
 Images:
