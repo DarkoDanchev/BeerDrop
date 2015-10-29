@@ -1,0 +1,8 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+play: { down: buttons6, up: buttons2 },
+options: { down: buttons8, up: buttons9 }
+skins: { down:buttons10, up:buttons4 }
+highscores: { down:buttons3, up:buttons5}
+more: { down:buttons6, up:buttons}
+}
